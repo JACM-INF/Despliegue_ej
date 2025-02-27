@@ -12,7 +12,7 @@ HATEOAS
 {
   "_embedded": {
     "productos": [
-      {
+  {
         "nombre": "Producto 1",
         "precio": 100.00,
         "_links": {
